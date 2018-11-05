@@ -1,4 +1,4 @@
-# Obtendo dado do arquivo
+# Obtendo dados do arquivo
 dataframe <- read.table("C:/dados_coleta_normalizado.txt", head=T, sep=",")
 
 # Calculando o K-means e exibindo resultados
